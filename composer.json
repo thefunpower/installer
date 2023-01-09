@@ -1,0 +1,19 @@
+{
+    "name": "thefunpower/installer",
+    "type": "library",
+    "description": "coer installer",
+    "keywords": ["php"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "ken.sun",
+            "email": "kungfutime@foxmail.com" 
+        }
+    ],
+    "require": { 
+        "thefunpower/vue": "dev-main",
+        "thefunpower/db_medoo": "dev-main",
+        "thefunpower/license_checker": "dev-main",  
+        "thefunpower/auth": "dev-main"
+    }
+}
