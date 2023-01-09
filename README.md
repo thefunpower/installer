@@ -4,7 +4,11 @@
 
 http://thefunpower.netlify.qihetaiji.com/
 
- 
+### 安装
+
+~~~
+composer require thefunpower/installer
+~~~
 
 ### 开源协议 
 
