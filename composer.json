@@ -11,9 +11,10 @@
         }
     ],
     "require": { 
+        "thefunpower/core": "^1.0",
         "thefunpower/vue": "^1.0",
         "thefunpower/db_medoo": "^1.0",
-        "thefunpower/license_checker": "^1.0",  
+        "thefunpower/license_checker": "^1.0", 
         "thefunpower/auth": "^1.0"
     }
 }
