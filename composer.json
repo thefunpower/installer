@@ -16,5 +16,6 @@
         "thefunpower/db_medoo": "dev-main",
         "thefunpower/license_checker": "dev-main", 
         "thefunpower/auth": "dev-main"
-    }
+    },
+    "minimum-stability": "dev"
 }
