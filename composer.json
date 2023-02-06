@@ -15,7 +15,11 @@
         "thefunpower/vue": "dev-main",
         "thefunpower/db_medoo": "dev-main",
         "thefunpower/license_checker": "dev-main", 
-        "thefunpower/auth": "dev-main"
+        "thefunpower/auth": "dev-main",
+        "phpseclib/phpseclib": "^2.0",
+        "phpoffice/phpspreadsheet": "^1.20",
+        "ramsey/uuid": "^4.4", 
+        "endroid/qr-code": "^4.7"
     },
     "minimum-stability": "dev"
 }
