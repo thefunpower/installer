@@ -14,6 +14,7 @@
         "thefunpower/core": "dev-main",
         "thefunpower/vue": "dev-main",
         "thefunpower/db_medoo": "dev-main",
+        "thefunpower/sony_flake_id":"dev-main",
         "thefunpower/license_checker": "dev-main", 
         "thefunpower/auth": "dev-main",
         "phpseclib/phpseclib": "^2.0",
