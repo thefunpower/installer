@@ -11,12 +11,12 @@
         }
     ],
     "require": { 
-        "thefunpower/core": "dev-main",
-        "thefunpower/vue": "dev-main",
-        "thefunpower/db_medoo": "dev-main",
-        "thefunpower/sony_flake_id":"dev-main",
-        "thefunpower/license_checker": "dev-main", 
-        "thefunpower/auth": "dev-main",
+        "thefunpower/core": "^1.0",
+        "thefunpower/vue": "^1.0",
+        "thefunpower/db_medoo": "^1.0",
+        "thefunpower/sony_flake_id":"^1.0",
+        "thefunpower/license_checker": "^1.0", 
+        "thefunpower/auth": "^1.0",
         "phpseclib/phpseclib": "^2.0",
         "phpoffice/phpspreadsheet": "^1.20",
         "ramsey/uuid": "^4.4", 
