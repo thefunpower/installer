@@ -1,7 +1,7 @@
 {
     "name": "thefunpower/installer",
     "type": "library",
-    "description": "coer installer",
+    "description": "安装常用依赖包",
     "keywords": ["php"],
     "license": "MIT",
     "authors": [
