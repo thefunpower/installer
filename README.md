@@ -21,5 +21,5 @@ composer require thefunpower/installer
 
 ### 开源协议 
 
-[LICENSE](LICENSE.md)
+[LICENSE](LICENSE)
  
